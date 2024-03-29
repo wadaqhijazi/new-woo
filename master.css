@@ -249,7 +249,7 @@
 
 .popup-box h5 {
     font-weight: bold;
-    font-size: 20px;
+    font-size: 15px;
     /* top: 0; */
     margin: 0 0 10px 0;
     text-align: center;
@@ -264,7 +264,7 @@
     background-color: #f6f6f6;
     border: 1px solid #ccc;
     width: 30%;
-    padding: 20px;
+    padding: 10px;
     z-index: 1001;
     -webkit-transform: translate(-50%, -50%);
     -moz-transform: translate(-50%, -50%);
@@ -327,6 +327,7 @@
     -moz-transition: 3.s;
     -ms-transition: 3.s;
     -o-transition: 3.s;
+
 }
 
 .subscribe input[type="button"] {
@@ -336,6 +337,7 @@
     font-weight: bold;
     border: none;
     margin-left: 10px;
+    margin-top: 10px;
     border-radius: 5px;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
